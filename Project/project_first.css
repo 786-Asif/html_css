@@ -1,0 +1,55 @@
+a{
+    color: rgb(30, 148, 211);
+   font-size: 25px;
+}
+.shoes{
+    font-size: 30px;
+    font-weight: bolder;
+    font-family:'Courier New', Courier, monospace'
+}
+.stock{
+    color: rgb(6, 146, 6);
+    font-size: 25px;
+    font-weight: bold;
+    font-family:'Courier New', Courier, monospace'
+}
+.delivery{
+    font-size: 25px;
+    font-weight: bold;
+    font-family:'Courier New', Courier, monospace'
+}
+.cart{
+    background-color: rgb(225, 203, 37);
+    color: black;
+    border: none;
+    border-radius: 20px;
+    height: 42px;
+    width: 140px;
+    font-size:medium;
+    font-weight: bolder;
+    margin-right: 10px;
+}
+.cart:hover{
+    opacity: 0.8;
+}
+.cart:active{
+    opacity: 0.6;
+}
+
+.buy{
+    background-color: rgb(222, 139, 22);
+    color: black;
+    border: none;
+    border-radius: 20px;
+    height: 42px;
+    width: 140px;
+    font-size:medium;
+    font-weight: bolder;
+    margin-right: 10px;
+}
+.buy:hover{
+    opacity: 0.8;
+}
+.buy:active{
+    opacity: 0.6;
+}
